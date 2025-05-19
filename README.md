@@ -1,4 +1,4 @@
-Please run this program with Cargo, as it is written in Rust.
+Please run this program with Cargo, as it is written on Rust.
 
 I will provide updates on the following schedule:
 -	After I have a team member available to create a normal application
